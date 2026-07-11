@@ -1,16 +1,17 @@
-## Hi there 👋
+vedika@iitk:~$ whoami
+Vedika Yadav
 
-<!--
-**vedika-yadav/vedika-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vedika@iitk:~$ education
+BS Mathematics & Scientific Computing
+Indian Institute of Technology Kanpur
 
-Here are some ideas to get you started:
+vedika@iitk:~$ interests
+> Quantitative Finance
+> Optimization
+> Machine Learning
+> Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vedika@iitk:~$ currently
+Working on 3D Reconstruction & Quant Research
+
+vedika@iitk:~$ _
