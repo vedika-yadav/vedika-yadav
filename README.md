@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-I enjoy solving problems at the intersection of mathematics, computing, and business.
+I enjoy solving problems at the intersection of mathematics, computing and business.
 </p>
